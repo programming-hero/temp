@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.437d7f6f.chunk.css",
+    "main.js": "/static/js/main.ac125f0f.chunk.js",
+    "main.js.map": "/static/js/main.ac125f0f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/css/2.68a684dc.chunk.css": "/static/css/2.68a684dc.chunk.css",
+    "static/js/2.911a4637.chunk.js": "/static/js/2.911a4637.chunk.js",
+    "static/js/2.911a4637.chunk.js.map": "/static/js/2.911a4637.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eece081bac81c84d34311dab10f12220.js": "/precache-manifest.eece081bac81c84d34311dab10f12220.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.68a684dc.chunk.css.map": "/static/css/2.68a684dc.chunk.css.map",
+    "static/css/main.437d7f6f.chunk.css.map": "/static/css/main.437d7f6f.chunk.css.map",
+    "static/js/2.911a4637.chunk.js.LICENSE.txt": "/static/js/2.911a4637.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/static/media/cart.1a2a757b.svg",
+    "static/media/copyright-claim.png": "/static/media/copyright-claim.900617fa.png",
+    "static/media/course-preview-thumbnail.png": "/static/media/course-preview-thumbnail.5e147cf8.png",
+    "static/media/ecommerce-project.png": "/static/media/ecommerce-project.c27b00bd.png",
+    "static/media/ellipse-red.png": "/static/media/ellipse-red.2c6833cd.png",
+    "static/media/main.scss": "/static/media/login-bg.482e9373.png",
+    "static/media/full-stack.png": "/static/media/full-stack.f83b1f33.png",
+    "static/media/jhankar.png": "/static/media/jhankar.5fef0da9.png",
+    "static/media/man-with-laptop.png": "/static/media/man-with-laptop.4504d35a.png",
+    "static/media/panda-project.png": "/static/media/panda-project.597b1293.png",
+    "static/media/pc-icon.png": "/static/media/pc-icon.44e28ccd.png",
+    "static/media/protfolio-project.png": "/static/media/protfolio-project.c173a305.png",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
+    "static/media/thinker.png": "/static/media/thinker.1693ee8e.png",
+    "static/media/winner-trophy.svg": "/static/media/winner-trophy.f74860a7.svg",
+    "static/media/work-time-pana.svg": "/static/media/work-time-pana.51378a39.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/css/2.68a684dc.chunk.css",
+    "static/js/2.911a4637.chunk.js",
+    "static/css/main.437d7f6f.chunk.css",
+    "static/js/main.ac125f0f.chunk.js"
+  ]
+}
